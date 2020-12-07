@@ -9,6 +9,7 @@ import java.io.*;
  * Email: shalin@alumni.usc.edu
  */
 public class BranchAndBound
+    //  检测是否与远端仓库正确连接
 {    
     public static void main(String [] args)
     {   

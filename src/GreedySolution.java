@@ -9,7 +9,6 @@ import java.util.*;
 public class GreedySolution 
 {
     //  注释
-    //  分支dev
     public static void main(String [] args) throws Exception
     {
         DataProcessor.processData();

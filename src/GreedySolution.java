@@ -9,7 +9,7 @@ import java.util.*;
 public class GreedySolution 
 {
     //  注释
-    //  master分支
+    //  master分支新修改
     public static void main(String [] args) throws Exception
     {
         DataProcessor.processData();

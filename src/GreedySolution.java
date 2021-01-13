@@ -7,7 +7,7 @@ import java.util.*;
  * Email: shalin@alumni.usc.edu
  */
 public class GreedySolution 
-{    //  修改master
+{
     public static void main(String [] args) throws Exception
     {
         DataProcessor.processData();
